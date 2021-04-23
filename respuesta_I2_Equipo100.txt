@@ -7,3 +7,9 @@ a) Actualizo mi repositorio haciendo un pull del repositorio al que hice FORK.
 b) Alfa puede actualizar su FORK al de Gamma realizando un pull del repositorio local de Gamma.
 c) Gamma solo puede actualizar su Fork al estado de mi repositorio.
 d) Los datos que tengo en mi repositorio no se pierden con un Fork si la rama master no edito esos archivos.
+e)Los comandos necesarios son:
+	mkdir, cd, clone, add .,status ,commit, push
+
+	Para actualizar los datos, se realiza un pull
+
+	(En el caso que sea un repositorio forkeado, se usa git pull "link del original")
