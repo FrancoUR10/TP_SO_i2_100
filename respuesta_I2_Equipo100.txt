@@ -3,3 +3,7 @@ Alfa: Cristian Fumacoo
 Beta: Franco Acquisto
 Gamma: Miguel Parral
 
+a) Actualizo mi repositorio haciendo un pull del repositorio al que hice FORK.
+b) Alfa puede actualizar su FORK al de Gamma realizando un pull del repositorio local de Gamma.
+c) Gamma solo puede actualizar su Fork al estado de mi repositorio.
+d) Los datos que tengo en mi repositorio no se pierden con un Fork si la rama master no edito esos archivos.
